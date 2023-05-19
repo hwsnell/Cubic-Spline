@@ -9,7 +9,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cubic-spline"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
   { name="Harrison Snell", email="harrison.snell23@gmail.com" },
 ]
