@@ -1,6 +1,7 @@
 import numpy as np
 from numba import njit
-import tools
+# from .tools import *
+from cubic_spline import tools
 
 
 '''Interpolation for arrays

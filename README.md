@@ -15,7 +15,7 @@ interpolate.CubicSpline(x, y, bc_type='natural')
 `cubic_spline` runs on NumPy and Numba. The pacakge was developed with Python 3.9 with NumPy version 1.21 and Numba version 0.55. To install run the following command
 
 ```
-pip install cubic_spline
+pip install cubic-spline
 ```
 
 
